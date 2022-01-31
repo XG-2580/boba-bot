@@ -57,7 +57,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/XG-2580/all-in-one-bot"
+    "url": "git+https://github.com/XG-2580/boba-bot.git"
   },
   "keywords": [
     "lavalink",
@@ -80,7 +80,7 @@
     "reactions"
   ],
   "bugs": {
-    "url": "https://github.com/XG-2580/all-in-one-bot/issues"
+    "url": "https://github.com/XG-2580/boba-bot.git/issues"
   },
   "homepage": "",
   "devDependencies": {
