@@ -1,0 +1,38 @@
+{
+   "token": "",
+   "prefix": "bb!",
+   "ownerIDS": [
+      "594195050242768899", "743334980024926220", "830892660826439711", "637577375890014219", ""
+   ],
+   "memer_api": "",
+   "status": {
+      "text": "{prefix}help | Limsathya",
+      "text2": "by: discord.gg/6nXcXdHdCU",
+      "type": "PLAYING",
+      "url": "https://discord.com/invite/Cs2CCuwKqP"
+   },
+   "clientsettings": {
+      "nodes": [
+         {
+            "host": "node06.lavalink.eu",
+            "port": 2333,
+            "password": "Raccoon"
+         }
+      ]
+   },
+   "spotify": {
+      "clientSecret": "",
+      "clientID": ""
+   },
+   "settings": {
+      "leaveOnEmpty_Channel": {
+         "enabled": true,
+         "time_delay": 30000
+      },
+      "LeaveOnEmpty_Queue": {
+         "enabled": true,
+         "time_delay": 30000
+      },
+      "selfDeaf": true
+   }
+}
